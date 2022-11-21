@@ -26,6 +26,7 @@ public class TaxableIncomeService
 
           public decimal CalculateTaxableIncome(decimal income)
           {
+                    income *= 12;
                     decimal taxIncome = income - (ConsolidatedReliefAllowance(income) + CalculatePension(income));
                     return taxIncome;
           }

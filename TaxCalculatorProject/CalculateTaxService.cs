@@ -62,7 +62,6 @@ public class CalculateTaxService
         }
         public decimal GeneralCalc(decimal income)
         {
-            income *= 12;
             decimal amount = _taxableIncomeService.CalculateTaxableIncome(income);
             decimal first300 = CalculateTaxForFirst300000(amount);
             amount -= 300000;
