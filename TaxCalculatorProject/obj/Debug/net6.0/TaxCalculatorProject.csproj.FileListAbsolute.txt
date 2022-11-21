@@ -1,0 +1,12 @@
+c:\Users\user\Desktop\Extern\UnitTestAss\TaxCalculatorProject\bin\Debug\net6.0\TaxCalculatorProject.deps.json
+c:\Users\user\Desktop\Extern\UnitTestAss\TaxCalculatorProject\bin\Debug\net6.0\TaxCalculatorProject.dll
+c:\Users\user\Desktop\Extern\UnitTestAss\TaxCalculatorProject\bin\Debug\net6.0\TaxCalculatorProject.pdb
+c:\Users\user\Desktop\Extern\UnitTestAss\TaxCalculatorProject\obj\Debug\net6.0\TaxCalculatorProject.csproj.AssemblyReference.cache
+c:\Users\user\Desktop\Extern\UnitTestAss\TaxCalculatorProject\obj\Debug\net6.0\TaxCalculatorProject.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\user\Desktop\Extern\UnitTestAss\TaxCalculatorProject\obj\Debug\net6.0\TaxCalculatorProject.AssemblyInfoInputs.cache
+c:\Users\user\Desktop\Extern\UnitTestAss\TaxCalculatorProject\obj\Debug\net6.0\TaxCalculatorProject.AssemblyInfo.cs
+c:\Users\user\Desktop\Extern\UnitTestAss\TaxCalculatorProject\obj\Debug\net6.0\TaxCalculatorProject.csproj.CoreCompileInputs.cache
+c:\Users\user\Desktop\Extern\UnitTestAss\TaxCalculatorProject\obj\Debug\net6.0\TaxCalculatorProject.dll
+c:\Users\user\Desktop\Extern\UnitTestAss\TaxCalculatorProject\obj\Debug\net6.0\refint\TaxCalculatorProject.dll
+c:\Users\user\Desktop\Extern\UnitTestAss\TaxCalculatorProject\obj\Debug\net6.0\TaxCalculatorProject.pdb
+c:\Users\user\Desktop\Extern\UnitTestAss\TaxCalculatorProject\obj\Debug\net6.0\ref\TaxCalculatorProject.dll
