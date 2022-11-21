@@ -2,18 +2,18 @@ namespace TaxCalculatorProject;
 
 public class TaxableIncomeService
 {
-          public decimal CalculatePension(decimal income)
+          private decimal CalculatePension(decimal income)
           {
                     decimal percent = (decimal)(8.0/100.0);
                     decimal pension = income * percent;
                     return pension;
           }
-          public decimal CalculateGI2(decimal amount)
+          private decimal CalculateGI2(decimal amount)
           {
                     return amount - CalculatePension(amount);
           }
 
-          public decimal ConsolidatedReliefAllowance(decimal income)
+          private decimal ConsolidatedReliefAllowance(decimal income)
           {
                     decimal percent20 = (decimal)(20.0/100.0);
                     decimal percent1 = (decimal)(1.0/100.0);
