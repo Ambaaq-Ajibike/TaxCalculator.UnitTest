@@ -1,10 +1,10 @@
 ﻿namespace TaxCalculatorProject;
 
-public class CalculateTaxService
+public class CalculateTaxService : ICalculateTaxService
 {
-    private readonly  TaxableIncomeService _taxableIncomeService;
+    private readonly  ITaxableIncomeService _taxableIncomeService;
 
-          public CalculateTaxService(TaxableIncomeService taxableIncomeService)
+          public CalculateTaxService(ITaxableIncomeService taxableIncomeService)
           {
                     _taxableIncomeService = taxableIncomeService;
           }

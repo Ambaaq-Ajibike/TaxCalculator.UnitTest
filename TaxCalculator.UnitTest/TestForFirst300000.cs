@@ -4,7 +4,7 @@ namespace TaxCalculator.UnitTest;
 
 public class TestForFirst300000
 {
-          private CalculateTaxService taxService;
+          private ICalculateTaxService taxService;
 
           [SetUp]
           public void Setup()

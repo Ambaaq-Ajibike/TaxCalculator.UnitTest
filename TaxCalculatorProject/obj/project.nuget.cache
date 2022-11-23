@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uhmDhEqZC9Go0R6NlFCbu0fRjMwarnt5bVUea/qb1ju9nNLLFPyaUTDKZciaoU07Kk5mMOPGVzbwjJhgZfC40w==",
+  "dgSpecHash": "NAUitBD3+Fp87ZJqGKjnE93AAaPTroOWyglfHwZqC2fhpsaVn/I77WKLvHAoVFTQc3jlB7YmGUYj/yIaNfLO9w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\Extern\\UnitTestAss\\TaxCalculatorProject\\TaxCalculatorProject.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Extern\\TaxCalculatorAPP\\UnitTestAss\\TaxCalculatorProject\\TaxCalculatorProject.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

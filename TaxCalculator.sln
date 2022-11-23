@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxCalculatorProject", "Tax
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxCalculator.UnitTest", "TaxCalculator.UnitTest\TaxCalculator.UnitTest.csproj", "{EA3228CB-43FE-4F44-AF73-39657E515A50}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxCalculate.WebApi", "TaxCalculate.WebApi\TaxCalculate.WebApi.csproj", "{C85F419E-0C48-4BD9-BB3A-29A15C66B3C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{EA3228CB-43FE-4F44-AF73-39657E515A50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA3228CB-43FE-4F44-AF73-39657E515A50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA3228CB-43FE-4F44-AF73-39657E515A50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C85F419E-0C48-4BD9-BB3A-29A15C66B3C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C85F419E-0C48-4BD9-BB3A-29A15C66B3C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C85F419E-0C48-4BD9-BB3A-29A15C66B3C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C85F419E-0C48-4BD9-BB3A-29A15C66B3C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

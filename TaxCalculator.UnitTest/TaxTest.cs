@@ -5,20 +5,14 @@ namespace TaxCalculator.UnitTest;
 public class TaxTest
 {
     private CalculateTaxService taxService;
-    private TaxableIncomeService taxableIncomeService;
+    private ITaxableIncomeService taxableIncomeService;
     [SetUp]
     public void Setup()
     {
         taxableIncomeService = new TaxableIncomeService();
         taxService = new CalculateTaxService(taxableIncomeService);
     }
-    [Test]
-    [TestCase(50000, 2744000)]
-    public void CalculateTaxableIncome_WhenCalled_ReturnTaxableIncome(decimal income, decimal expectedResult)
-    {
-        decimal result = taxableIncomeService.CalculateTaxableIncome(income);
-        Assert.AreEqual(result, expectedResult);
-    }
+ 
     [Test]
     [TestCase(300000)] 
     public void GeneralCalc_WhenCalled_ReturnMonthlyTax(decimal income)

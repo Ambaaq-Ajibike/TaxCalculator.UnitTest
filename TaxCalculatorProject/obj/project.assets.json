@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\Extern\\UnitTestAss\\TaxCalculatorProject\\TaxCalculatorProject.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\Extern\\TaxCalculatorAPP\\UnitTestAss\\TaxCalculatorProject\\TaxCalculatorProject.csproj",
       "projectName": "TaxCalculatorProject",
-      "projectPath": "C:\\Users\\user\\Desktop\\Extern\\UnitTestAss\\TaxCalculatorProject\\TaxCalculatorProject.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\Extern\\TaxCalculatorAPP\\UnitTestAss\\TaxCalculatorProject\\TaxCalculatorProject.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\Extern\\UnitTestAss\\TaxCalculatorProject\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\Extern\\TaxCalculatorAPP\\UnitTestAss\\TaxCalculatorProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
